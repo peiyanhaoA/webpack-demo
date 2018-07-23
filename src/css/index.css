@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+    color: gold;
+}
+#img{
+    background-image: url('../images/dt.jpg');
+    background-size: 100% 100%;
+    width: 500px;
+    height: 500px;
+    user-select: none;
+    transform: rotate(45deg);
+}
+
+#bb{
+    width: 100px;
+    height: 100px;
+    color: red;
+}

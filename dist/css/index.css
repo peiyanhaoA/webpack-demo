@@ -1,0 +1,31 @@
+/*! peiyanhao */
+#text {
+  width: 300px;
+  height: 200px;
+  background: #000;
+}
+
+#nav {
+  width: 100%;
+  height: 30px;
+  background: #fff;
+}
+
+body {
+  background-color: red;
+  color: gold;
+}
+
+#img {
+  background-image: url(http://192.168.8.156:7777/images/b4133261dda69d67674bd19fbab6a4d3.jpg);
+  background-size: 100% 100%;
+  width: 500px;
+  height: 500px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/*# sourceMappingURL=index.css.map*/
